@@ -2,7 +2,9 @@ $ git init
 
 ==> added some files
 
-$ git status     # use frequently
+$ git status                                                #####
+
+$ git log                                                   #####                
 
 
 $ git add .
@@ -22,3 +24,10 @@ $ git push origin -u master    # next time  $ git push
 Note:-
     if you stuck in cmd
     :wq   (or)   :q
+
+
+
+ ------------------- if we do any changes -------------
+ $ git add -A   
+ $ git commit -m "message"
+ $ git push      (or)   $ git push origin -u branch_name
