@@ -2,7 +2,9 @@ $ git init
 
 ==> added some files
 
-$ git status
+$ git status     # use frequently
 
 
 $ git add .
+
+$ git commit -m "notes added"
