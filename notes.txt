@@ -31,3 +31,12 @@ Note:-
  $ git add -A   
  $ git commit -m "message"
  $ git push      (or)   $ git push origin -u branch_name
+
+
+
+ ======================= Branch ================
+ $ git branch  
+ $ git branch br-1
+ $ git checkout br-1
+
+ ---- do stage & commit ---
