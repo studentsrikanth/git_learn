@@ -15,4 +15,10 @@ $ git commit -m "notes added"
 
 $ git remote add origin url
 
-$ git push origin -u master
+$ git push origin -u master    # next time  $ git push
+
+
+
+Note:-
+    if you stuck in cmd
+    :wq   (or)   :q
