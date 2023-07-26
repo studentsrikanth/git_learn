@@ -8,3 +8,11 @@ $ git status     # use frequently
 $ git add .
 
 $ git commit -m "notes added"
+
+
+
+#   create a repo in github
+
+$ git remote add origin url
+
+$ git push origin -u master
