@@ -1,0 +1,8 @@
+$ git init
+
+==> added some files
+
+$ git status
+
+
+$ git add .
