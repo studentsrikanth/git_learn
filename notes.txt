@@ -40,3 +40,15 @@ Note:-
  $ git checkout br-1
 
  ---- do stage & commit ---
+
+
+
+ in github
+   ->raise a PR ( pull request ) from br-1 to master
+   -> compete the PR  ( merge ) 
+
+
+
+->  
+$ git checkout master
+$ git pull
